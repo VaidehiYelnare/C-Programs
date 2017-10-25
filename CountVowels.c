@@ -95,7 +95,7 @@ int main()
 	int choice;
 	accept();
 	printf(" Enter your choice \n");
-	printf(" 1.Count number of vowels \n");
+	printf(" 1.Count number of vowels in string \n");
 	printf(" 2.Count number of each vowels \n ");
 	scanf("%d",&choice);
 	
